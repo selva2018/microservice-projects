@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.ticky.bean.TkyCustomerRequest;
 import com.ticky.service.TkyCustomerService;
 import com.ticky.util.TkyUtil;
-
+//Rest Controller - Added by Selva
 @RestController
 public class TkyController {
     @Autowired
